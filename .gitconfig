@@ -1,0 +1,15 @@
+[alias]
+	lg = log --oneline --decorate --all --graph
+	st = status
+	cm = commit
+	alias = config --global -e
+	ch = checkout
+	br = branch
+	pl = pull
+	ph = push
+	mg = merge
+[user]
+	email = santiago.sepulveda1@utp.edu.co
+	name = Santiago S
+[pull]
+	rebase = false
