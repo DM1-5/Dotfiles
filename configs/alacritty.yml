@@ -14,7 +14,32 @@ scrolling:
 window.dynamic_title: true
 
 font:
+  normal: 
+
+    family: FiraCode
+
+    style: Regular 
+
+  bold:
+
+    family: FiraCode
+
+    style: Bold
+
+  italic:
+
+    family: FiraCode
+
+    style: Italic
+
+  bold_italic:
+
+    family: FiraCode
+
+    style: Bold Italic
+
   size: 15.0
+
 
 # Gruvbox Material Dark Medium - alacritty color config
 # by sainnhe https://github.com/sainnhe/gruvbox-material
