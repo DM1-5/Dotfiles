@@ -1,5 +1,5 @@
 echo "Instalando"
-sudo pacman -S alacritty curl vim 
+sudo pacman -S alacritty curl vim ttf-fira-code
 mkdir -p ~/.config/alacritty && cp configs/alacritty.yml ~/.config/alacritty
 echo "configurando git y vim"
 cp configs/.gitconfig configs/.vimrc ~/
